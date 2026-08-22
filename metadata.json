@@ -1,0 +1,6 @@
+{
+  "name": "ShopSphere",
+  "description": "Premium corporate modern e-commerce application with product catalog, responsive filters, rich product detail pages, interactive cart, multi-step checkout, and customer order dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
